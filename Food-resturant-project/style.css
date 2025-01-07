@@ -78,8 +78,12 @@
 }
 
 /* new section  */
-
 #card-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.divContainer{
     width: 884px;
     margin: 50% auto;
     margin: 100px;
