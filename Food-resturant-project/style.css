@@ -6,9 +6,8 @@
 }
 
 #hero {
-
-    background: linear-gradient(0.00deg, rgb(16, 16, 16) -19.5%, rgba(16, 16, 16, 0) 100%), url(/assets/hero-bg.png);
     height: 616px;
+    background: linear-gradient(0.00deg, rgb(16, 16, 16) -19.5%, rgba(16, 16, 16, 0) 100%), url(/assets/hero-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
